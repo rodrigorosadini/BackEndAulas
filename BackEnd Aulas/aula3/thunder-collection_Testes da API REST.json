@@ -1,0 +1,131 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-05T00:14:36.415Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "fa344d12-d852-429f-b8c8-cdb03873260c",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products",
+            "url": "https://dummyjson.com/products",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-03-05T00:13:39.398Z",
+            "modified": "2024-03-05T00:13:39.398Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "b60e5c18-b710-4840-98a3-515a0e80d8d9",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/1",
+            "url": "https://dummyjson.com/products/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-03-05T00:13:44.063Z",
+            "modified": "2024-03-05T00:13:44.063Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "eac7f859-5daa-4ec8-8937-eed7ca9efe54",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/101",
+            "url": "https://dummyjson.com/products/101",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-03-05T00:13:47.878Z",
+            "modified": "2024-03-05T00:13:47.878Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "70df43b7-ed68-48d7-816a-2f5905de1b5c",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/101",
+            "url": "https://dummyjson.com/products/101",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-03-05T00:13:55.334Z",
+            "modified": "2024-03-05T00:13:55.334Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "72906f21-4719-4d07-b4ac-eb6c39d8e344",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/1",
+            "url": "https://dummyjson.com/products/1",
+            "method": "PUT",
+            "sortNum": 50000,
+            "created": "2024-03-05T00:14:01.934Z",
+            "modified": "2024-03-05T00:14:01.934Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"Minecraft\",\n  \"description\": \"Joguinho de videogame\",\n  \"price\": 34.21\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "6b75e18a-3c16-40e0-a858-ac51f73026f0",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/101",
+            "url": "https://dummyjson.com/products/101",
+            "method": "PUT",
+            "sortNum": 60000,
+            "created": "2024-03-05T00:14:08.230Z",
+            "modified": "2024-03-05T00:14:08.230Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"Minecraft\",\n  \"description\": \"Joguinho de videogame\",\n  \"price\": 34.21\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "0d753821-c8e8-48f9-9e0c-bfd26793e1c0",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/1",
+            "url": "https://dummyjson.com/products/1",
+            "method": "DELETE",
+            "sortNum": 70000,
+            "created": "2024-03-05T00:14:11.766Z",
+            "modified": "2024-03-05T00:14:11.766Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "a07cf28b-958f-4195-9774-b22c6ace78f3",
+            "colId": "90ce1b4d-4136-487c-8484-b21ddfb8d25d",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/101",
+            "url": "https://dummyjson.com/products/101",
+            "method": "DELETE",
+            "sortNum": 80000,
+            "created": "2024-03-05T00:14:15.574Z",
+            "modified": "2024-03-05T00:14:15.574Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
